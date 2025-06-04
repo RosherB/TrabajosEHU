@@ -1,0 +1,6 @@
+aes.c/aes.h
+- Implementaciones AES-ECB, AES-CBC, AES-CTR (https://github.com/kokke/tiny-AES-c)
+- Implementaciones AES-CCM, AES-GCM
+
+test.c
+- Ejemplos de cifrado/descifrado con todos los modos implementados en aes.c
